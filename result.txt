@@ -1,5 +1,0 @@
-URL: https://portal.fbuni.edu.br/login
-Usuario: sigmundyamotoz@gmail.com
-Senha: Bostinha123
-Tempo: 23.6s
-Tentativas: 99/99
